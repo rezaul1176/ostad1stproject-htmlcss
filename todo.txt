@@ -1,0 +1,3 @@
+echo "# ostad1stproject-htmlcss" >> README.md
+Only one time for every new repository :
+git remote add origin https://github.com/rezaul1176/ostad1stproject-htmlcss.git
